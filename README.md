@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Boyi Kenneth Efe |
+| **LinkedIn** | https://www.linkedin.com/in/kenneth-boyi-6b4a353a6/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BLFYd4nmWQw6B6IrfWquGcg%3D%3D |
+| **Location** | Warri, Nigeria |
+| **Background** | Software Developement & Video Editing |
+| **Goal** | To become a DevOps & Cloud Engineer |
 
 ---
 
@@ -65,13 +65,13 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-**Your stack (uncomment each badge as you earn it):**
+**Your stack :**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+ Week 00 → Internet & Networking Basics 
+ [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+ Week 01 → Success Mindset 
+[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) 
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -112,7 +112,6 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 14 → Final Project / Capstone -->
 <!-- [![Week 14 – Capstone](./badges/week-14.svg)](./week-14-final-project/) -->
 
-*Complete a week → uncomment the badge → watch your stack grow.*
 
 ---
 
@@ -133,8 +132,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed  |https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_pravin-mishra-the-cloudadvisory-linkedin-activity-7466360976641191936-IxYI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE| — |
+| 01 | Success Mindset | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_boyi-20-and-more-upgrades-to-come-the-share-7478604231239823360-3vAY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE | https://medium.com/@kennethefeboyi14/boyi-2-0-and-more-upgrades-to-come-5e20a7fc9d11?sharedUserId=kennethefeboyi14 |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |

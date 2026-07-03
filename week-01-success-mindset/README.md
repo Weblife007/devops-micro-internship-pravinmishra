@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+One belief I hold that many people around me disagree with is that money does not truly bring fulfillment. While I recognize that money is important and necessary, I don't believe it is the ultimate source of satisfaction in life.At the end of one's life, I believe the greatest satisfaction comes from looking back and knowing that you lived with purpose, made a difference, and stayed true to what mattered most. Money may provide comfort and opportunities, but it cannot provide the deep sense of fulfillment that comes from living a meaningful and purposeful life.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistency produces better results than lots of motivation.
 
 ### Evidence from my life
 
-Add your answer here...
+Whenever I followed a structured study schedule and completed my learning consistently, I understood concepts better and made steady progress. Whenever I relied only on motivation, I often procrastinated and fell behind on my goals.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Real skills are developed through practice, not by consuming information alone.
 
 ### Evidence from my life
 
-Add your answer here...
+I realized that simply watching tutorials or reading documentation did not make me confident in programming. My understanding improved only after I started building projects and applying what I had learned to real-world problems.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+You cannot achieve a future you do not intentionally prepare for.
 
 ### Evidence from my life
 
-Add your answer here...
+As I began planning my weekly routine, setting focus blocks, and creating long-term goals, I gained more clarity about my career path. Before having a plan, I often felt overwhelmed because I didn't know what my next step should be.
 
 ---
 
@@ -135,13 +135,30 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+BOYI 2.0 and More upgrades to come.
+
+The Quiet Rise of a DevOps Engineer Who Chose Consistency Over Shortcuts
+
+Five years ago, I didn't have all the answers. I wasn't sure what the future looked like, and I often questioned whether I was on the right path. But instead of waiting for clarity, I made one decision that changed everything—I kept showing up.
+
+I focused on learning software engineering and DevOps, one day at a time. I built projects, documented my work on GitHub, earned industry certifications, and embraced every opportunity to improve. What started as small personal projects gradually became a portfolio that opened doors to a career in DevOps.
+
+Along the way, I learned that success isn't built on motivation. It's built on consistency.
+
+Beyond my day job, I shared what I learned through LinkedIn and Medium, contributed to the tech community, and worked on projects that solved real problems. Every line of code, every late-night study session, and every challenge became part of a much bigger story.
+
+Looking back, I realize that the biggest transformation wasn't becoming a DevOps engineer. It was becoming someone who chose discipline over excuses, growth over comfort, and purpose over shortcuts.
+
+The future I once imagined didn't happen by chance. It was built one intentional day at a time.
+
+**You do not arrive at a future you don't prepare for.**
+
+#DevOps #SoftwareEngineering #CloudComputing #CareerGrowth #ContinuousLearning #BuildInPublic
+
 
 ### Public Link
 
-Paste your link here:
-
-`__________________________`
+https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_boyi-20-and-more-upgrades-to-come-the-share-7478604231239823360-3vAY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE
 
 ---
 
@@ -173,7 +190,8 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes, I have cut corners before, and it left me feeling ashamed, guilty, and full of regret. I realized that taking shortcuts often leads to consequences that are difficult to undo. The experience taught me that temporary convenience is never worth sacrificing my integrity, and it motivated me to value honesty, discipline, and doing things the right way.
+
 
 ---
 
@@ -199,16 +217,26 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The Bible – The Holy Spirit
+2. Cloud Computing with AWS – Pravin Mishra
+![Book2](screenshots/Week-01-SS-01.jpg)
+3. Mastering AWS DevOps – Pravin Mishra
+![Book3](screenshots/Week-01-SS-02.webp)
+4. The Power of Habit – Charles Duhigg
+![Book4](screenshots/Week-01-SS-03.jpg)
+5. 5am Club – Robin Sharma
+![Book5](screenshots/Week-01-SS-4.jpeg)
+6. Steal Like an Artist – Austin Kleon
+![Book6](screenshots/Week-01-SS-05.jpg)
+7. In Pursuit of Purpose – Myles Munroe
+![Book7](screenshots/Week-01-SS-06.jpg)
+8. Psychology of Money – Mogan Housel
+![Book8](screenshots/Week-01-SS-07.jpg)
+9. Atomic Habit – James Clear
+![Book9](screenshots/Week-01-SS-08.jpg)
+10. 48 laws of power - Robert Greene
+![Book10](screenshots/Week-01-SS-09.jpg)
+
 
 ---
 
@@ -237,16 +265,15 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Complete one project milestone every week by working 2 hours daily on my personal project.  
+* Publish one portfolio project every 2 months. 
+* Learn one new programming concept or skill every week and practice it. 
+* Save 20% of my monthly income. 
+* Invest 10% of my monthly income.
+* Walk 7,000 steps every day. 
+* Get at least 6 hours of sleep every day.  
+* Have one deep-thinking session and a long walk every weekend. 
+
 
 ---
 
@@ -270,9 +297,18 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: Yes
 
-Add your answer here...
+After DMI Course 3, what's next?
+I need to build real-life projects for my portfolio. I need to build a strong portfolio. I need to grow my LinkedIn and Instagram accounts.
+How is AI affecting what I'm learning right now? What is the future of DevOps, and how do I prepare for it?
+What should I invest in? Should I invest in stocks, index funds, or something else? What investment plan should I have? What should I do with my income?
+How do I constantly improve myself? What plans should I make for my future?
+What problems exist around me, in my community, or in my country? How can I solve them in my own little way?
+What idea should I work on? Do I even have an idea worth pursuing?
+What do I need to do to become one of the best in my field? How do I make a real impact in the tech industry?
+I honestly don't know what my next step should be.
+
 
 ---
 
@@ -290,7 +326,28 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon-Thus: 
+- 3 hours of deep work--DMI assignments and learning
+- 1 hour of working on personal projects
+
+Fri: 
+- Relearning and review of past and currents weeks work
+
+Sat: 
+- DMI session/evening review of session 
+- deep thinking and long walks in the evening
+
+
+Sun: Weekly review and planning
+
+Daily Activities:
+- 10 minutes of exercise before bathing (Both Morning and Evening) 
+- 6 hours of sleep per day
+- 1 hours of working on personal project per day 
+- 30 minutes of reading a book per day 
+- 15 minutes of silence per day
+
+
 
 ---
 
@@ -298,13 +355,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Mon-Fri: 8pm to 11pm WAT
+Sat: 5:30am to 1:30pm WAT and evening 9:00pm to 10:30pm WAT
+Sun: 8pm to 9pm WAT
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
-
----
+6 SESSIONS
 
 ### Distraction Rules
 
@@ -316,7 +373,26 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+## Distraction Rules
+
+### Phone Rules
+
+- Keep my phone on **Do Not Disturb** during study or work sessions.
+- Avoid checking social media until I have completed my planned tasks for the day.
+- Place my phone out of reach while working unless it is required.
+
+### Social Media Rules
+
+- Limit social media use to 1 hour 30 minutes per day.
+- Do not open social media during work or study hours.
+
+### Environment Setup
+
+- Keep my workspace clean and free of unnecessary items.
+- Work in a quiet environment with minimal distractions.
+- Close unrelated tabs and applications before starting a task.
+- Prepare everything I need before beginning a work session to avoid interruptions.
+
 
 ---
 
@@ -324,28 +400,34 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I can be consistent and I can be successful
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I hardly measure my progress
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+- 10 minutes of exercise before bathing (Both Morning and Evening) 
+- 1 deep thinking and long walks every weekend 
+- 6 hours of sleep per day
+- 1 hours of working on personal project per day 
+- 30 minutes of reading a book per day 
+- 15 minutes of silence per day
+
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_join-the-dmi-devops-micro-internship-share-7478234906569973760-pcDc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_boyi-20-and-more-upgrades-to-come-the-share-7478604231239823360-3vAY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE**  
+- Blog / Medium : **https://medium.com/@kennethefeboyi14/boyi-2-0-and-more-upgrades-to-come-5e20a7fc9d11?sharedUserId=kennethefeboyi14**  
 
 ---
 
