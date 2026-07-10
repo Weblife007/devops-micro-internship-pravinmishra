@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![blog post](screenshots/blog-post.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@kennethefeboyi14/learning-devops-with-agentic-ai-lessons-challenges-and-growth-in-week-2-438285031a44?sharedUserId=kennethefeboyi14`
 
 ---
 
@@ -92,7 +92,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![LinkedIn post](screenshots/LinkedIn-post.png)
 
 ---
 
@@ -100,15 +100,26 @@ Add your screenshot here.
 
 LinkedIn Post Content (copy-paste here):
 
+Week 2 of the DevOps Micro Internship completely changed how I think about AI in software engineering.
+
+Before this week, I mostly saw AI as a tool for answering questions or generating code. Through hands-on assignments with Claude Code, Terraform, Git, MCP, hooks, permissions, and memory, I discovered that Agentic AI can do much more. It can follow structured workflows, remember previous project decisions, use specialized skills, and work within defined permissions—making it feel more like a collaborative engineering partner than just a chatbot.
+
+The journey wasn't without challenges. I ran into Git issues, Terraform configuration errors, and several moments where I had to slow down, read the documentation, and troubleshoot carefully. Those experiences taught me that debugging and understanding error messages are just as important as writing code.
+
+One of my favorite moments this week was successfully generating Terraform infrastructure using Claude Code and seeing how automation can simplify repetitive DevOps tasks while still requiring human review and decision-making.
+
+Every challenge this week made me a little more confident, and I'm excited to keep learning and building.
+
+
 ```
-Paste your LinkedIn post content here
+
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_dmibypravinmishra-agenticai-claudecode-activity-7481469143414824960-yLEJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE`
 
 ---
 
