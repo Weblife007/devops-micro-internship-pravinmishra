@@ -91,7 +91,7 @@ Add your screenshot here.
 
 Paste your Linkedin post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_dmibypravinmishra-agenticai-claudecode-ugcPost-7481450655732174848-XU5o/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE`
 
 ---
 
