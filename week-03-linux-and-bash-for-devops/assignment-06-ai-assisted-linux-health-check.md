@@ -534,7 +534,7 @@ Paste your LinkedIn post URL here:
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-`__________________________`
+`https://github.com/Weblife007/devops-micro-internship-pravinmishra.git`
 
 ---
 

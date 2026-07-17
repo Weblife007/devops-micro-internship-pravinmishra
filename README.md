@@ -76,8 +76,8 @@ This is not a course. It is an internship-style program — real deployments, re
  Week 02 → Agentic AI with Claude Code 
  [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) 
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+ Week 03 → Linux & Bash for DevOps 
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) 
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
@@ -133,7 +133,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed  |https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_pravin-mishra-the-cloudadvisory-linkedin-activity-7466360976641191936-IxYI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE| — |
 | 01 | Success Mindset | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_boyi-20-and-more-upgrades-to-come-the-share-7478604231239823360-3vAY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE | https://medium.com/@kennethefeboyi14/boyi-2-0-and-more-upgrades-to-come-5e20a7fc9d11?sharedUserId=kennethefeboyi14 |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Completed |https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_dmibypravinmishra-agenticai-claudecode-activity-7481469143414824960-yLEJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE| https://medium.com/@kennethefeboyi14/learning-devops-with-agentic-ai-lessons-challenges-and-growth-in-week-2-438285031a44?sharedUserId=kennethefeboyi14|
-| 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux for DevOps | ✅ Completed  | ✅ Completed  | https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_devops-aws-linux-share-7483926371497508865-kk2A/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE | https://medium.com/@kennethefeboyi14/from-cloud-setup-to-ai-assisted-incident-triage-my-devops-learning-journey-8b5a38c1a6b6?sharedUserId=kennethefeboyi14|
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
