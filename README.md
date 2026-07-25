@@ -129,23 +129,6 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-<<<<<<< HEAD
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | - | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | - | - |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | - | - |
-| 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending  | - | - |
-| 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | |
-| 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
-| 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 10 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 12 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
-| 13 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
-| 14 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
-=======
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved  | [LinkedInPost Week 0] (https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_heyy-i-just-completed-a-devops-micro-internship-share-7466360975831490560-4C9_/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE) | — |
 | 01 | Success Mindset | ✅ Completed| ✅ Solved | [LinkedInPost Week 1] (https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_boyi-20-and-more-upgrades-to-come-the-share-7478604231239823360-3vAY/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE) | [BlogPost Week 1] (https://medium.com/@kennethefeboyi14/boyi-2-0-and-more-upgrades-to-come-5e20a7fc9d11?sharedUserId=kennethefeboyi14) |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | [LinkedInPost Week 2] (https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_dmibypravinmishra-agenticai-claudecode-share-7481469140373934080-6FXK/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE) |[BlogPost Week 2] (https://medium.com/@kennethefeboyi14/learning-devops-with-agentic-ai-lessons-challenges-and-growth-in-week-2-438285031a44?sharedUserId=kennethefeboyi14)|
@@ -160,7 +143,6 @@ This is not a course. It is an internship-style program — real deployments, re
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
 | 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
 | 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
->>>>>>> upstream/main
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
 **Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved
