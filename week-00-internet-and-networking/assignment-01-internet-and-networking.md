@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/A1ScreenShot01.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -59,7 +59,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user anywhere in the world visits EpicReads, their browser sends a request that is broken into small pieces called packets using packet switching.Each packet contains the IP address of the user's device and the IP address of the server hosting EpicReads in Finland, allowing routers across the internet to deliver the packets to the correct destination. The TCP/IP protocol suite ensures the packets are transmitted reliably, reassembled in the correct order, and any missing packets are resent if necessary. Once the request reaches the server, HTTP or the more secure HTTPS protocol is used to request and deliver the bookstore's web pages. Finally, the user's browser reassembles the data and displays the EpicReads website, allowing people worldwide to browse and purchase books.
+
 
 ---
 
@@ -260,10 +261,10 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 **DMI Official Website:** https://pravinmishra.com/dmi  
-- 🎓 **DevOps for Beginners (Udemy):** https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 **Ultimate Agentic AI DevOps with Clude Code** https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/?referralCode=448389767BC96284087B
-- 🎓 **DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm** https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/?referralCode=1C5B734505D65A010FA3
+- 🌐 **DMI Official Website:** https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme  
+- 🎓 **University:** https://university.pravinmishra.com?utm_source=github&utm_medium=readme  
+- 💬 **Discord Community:** https://discord.pravinmishra.com?utm_source=github&utm_medium=readme  
+- 📝 **Blog:** https://dmi.pravinmishra.com/blog?utm_source=github&utm_medium=readme  
 - ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
 - 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
 - 🏢 **CloudAdvisory (LinkedIn):** https://www.linkedin.com/company/thecloudadvisory/
