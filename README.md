@@ -134,8 +134,8 @@ This is not a course. It is an internship-style program — real deployments, re
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_dmibypravinmishra-devops-agenticai-share-7478604231239823360-b-kJ/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE | https://medium.com/@kennethefeboyi14/learning-devops-with-agentic-ai-lessons-challenges-and-growth-in-week-2-438285031a44?sharedUserId=kennethefeboyi14 |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_devops-aws-linux-share-7483926371497508865-kk2A/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE | https://medium.com/@kennethefeboyi14/from-cloud-setup-to-ai-assisted-incident-triage-my-devops-learning-journey-8b5a38c1a6b6?sharedUserId=kennethefeboyi14 |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_devops-git-github-share-7486262012965130240-pysp/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE | https://medium.com/@kennethefeboyi14/from-cloud-setup-to-ai-assisted-incident-triage-my-devops-learning-journey-8b5a38c1a6b6?sharedUserId=kennethefeboyi14 |
-| 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://lnkd.in/p/eTQZJqbr | https://medium.com/@kennethefeboyi14/from-scrum-boards-to-ai-assistants-what-week-5-taught-me-about-modern-devops-72be23fb60cd |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://lnkd.in/p/eTQZJqbr | https://medium.com/@kennethefeboyi14/from-scrum-boards-to-ai-assistants-what-week-5-taught-me-about-modern-devops-72be23fb60cd?sharedUserId=kennethefeboyi14 |
+| 06 | AWS Cloud | 🔄 In Progress | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
