@@ -34,7 +34,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a networking protocol is a set of rules that devices follow to communicate and exchange data correctly. I also learned that protocols are similar to real-life communication rules because both provide an agreed way for information to be sent, received, and understood.
+
 
 ---
 
@@ -92,7 +93,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/Diagram.jpg)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -103,18 +104,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React
+* HTML/CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Express.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* MangoDB
 
 ---
 
@@ -143,7 +144,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) translates human-readable domain names into IP addresses that computers use to locate servers on a network. For EpicReads, an A record should be used to point epicreads.com to the IPv4 address 52.172.142.222. The A record is appropriate because the provided address is an IPv4 address. DNS only maps the domain to the IP address; the :3000 port is handled separately by the application or server configuration.
 
 ---
 
@@ -179,7 +180,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/VsCode.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -218,8 +219,8 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
+```
+https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_i-just-completed-a-devops-micro-internship-share-7466360975831490560-doeU/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE
 ```
 
 ---
@@ -228,7 +229,26 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+I just Completed a DevOps Micro Internship Assignment!
+
+🤖 ChatGPT
+Learned how to write effective prompts to get clear and simplified explanations of technical concepts.
+
+🌐 Internet & Networking
+Explored how websites are accessed globally using Packet Switching, IP Addresses, TCP/IP, and HTTP/HTTPS.
+
+🏗️ App Architecture
+Compared Two-Tier (Frontend + Database) and Three-Tier (Frontend + Backend + Database) architectures, along with common technologies used in each layer.
+
+🌍 DNS
+Learned how DNS translates domain names into IP addresses and why an A Record is used to connect a domain to an IPv4 address.
+
+💻 VS Code Setup
+Configured my development environment in VS Code and verified it using the integrated terminal with a basic command.
+
+A great hands-on exercise that strengthened my understanding of networking, web architecture, DNS, and development tools.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/efUM_HU2 · Start your DevOps journey: https://lnkd.in/eAY-TBGB
 
 ---
 
@@ -236,19 +256,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found the basic concepts of application architecture and DNS relatively easy to understand once they were connected to practical examples. I was also comfortable setting up Visual Studio Code and using its integrated terminal. Using ChatGPT to simplify technical concepts also made it easier to understand unfamiliar networking terminology.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+The most difficult part was understanding how the different networking concepts connect together. Packet switching, IP addresses, TCP/IP, HTTP/HTTPS, and DNS are individual concepts, but they all work together when a user accesses a website. Understanding the difference between two-tier and three-tier architecture also required me to think about how each component communicates with the others.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I want to improve my understanding of networking by learning more about how protocols communicate across different layers. I also want to become more comfortable using the terminal and explaining technical concepts in my own words instead of relying on memorized definitions.
 
 ---
 
