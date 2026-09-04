@@ -109,7 +109,10 @@ Run `terraform destroy` to remove the Terraform-managed AWS resources after test
 
 Write a short paragraph about any challenges you faced and how you solved them.
 
-Write your answer here.
+### Notes
+
+I did not encounter any major challenges during this assignment. The Terraform configuration initialized successfully, and I was able to create the AWS VPC, subnets, Internet Gateway, route table, Security Group, and EC2 instance as required. I also verified that the EC2 instance was running, connected to it successfully, and confirmed that Nginx was accessible through the instance's public IP. Finally, I used `terraform destroy` to successfully remove the resources after testing. This assignment helped me gain more practical experience with Terraform, AWS networking, EC2 deployment, Security Groups, and infrastructure cleanup.
+
 
 ---
 

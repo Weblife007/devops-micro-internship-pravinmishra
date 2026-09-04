@@ -138,7 +138,10 @@ Confirm the React application loads through the VM's public IP and navigation wo
 
 Write a short summary of what you built and any issues you encountered and how you resolved them.
 
-Write your answer here.
+### Notes
+
+In this assignment, I used Terraform to provision an Azure Virtual Machine and deploy a React application that was served through Nginx. The main issue I encountered was an error in the Cloud-Init configuration after the VM was provisioned. I investigated the Cloud-Init error and traced it back to a syntax error in the deployment script. After correcting the syntax error and applying the configuration again, the Cloud-Init script executed successfully. I was then able to connect to the VM through SSH, install Node.js, npm, and Git, build the React application, configure Nginx, and verify that the application was accessible through the VM's public IP. This assignment helped me understand how Terraform and Cloud-Init can be used together to automate VM provisioning and application deployment, as well as how to troubleshoot initialization scripts when automated deployments fail.
+
 
 ---
 

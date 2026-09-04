@@ -102,7 +102,10 @@ Run `terraform destroy` to clean up the Azure resources after testing.
 
 Write a short paragraph explaining what you learned or any issues you encountered.
 
-Write your answer here.
+### Notes
+
+During this assignment, I learned how to use Terraform to provision and manage an Azure Virtual Machine and its supporting infrastructure. I encountered some issues during deployment, particularly with the Azure region and VM size. The selected region was not suitable for the requested configuration, so I used the Azure CLI to identify and correct the deployment settings. I also encountered an issue with the selected VM size being unavailable in the region, and I resolved it by checking the available VM sizes through the Azure CLI and selecting a suitable alternative. After making these adjustments, I was able to successfully initialize Terraform, create the infrastructure, verify that the VM was running using Azure CLI, and finally destroy the resources with Terraform. This exercise improved my understanding of Terraform, Azure resource availability, troubleshooting, and using the Azure CLI alongside Terraform.
+
 
 ---
 
