@@ -130,7 +130,7 @@ Confirm the React application loads through the VM's public IP and navigation wo
 
 #### Screenshot 10 — Browser showing the React application with the Azure VM public IP visible in the address bar
 
-![output ](screenshots/A3Screenshot✅.png)
+![output ](screenshots/A3Screenshot9.png)
 
 ---
 
