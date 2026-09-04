@@ -20,13 +20,13 @@ Create a `terraform-azure-vm` project and define the resource group, virtual net
 
 #### Screenshot 1 — VS Code showing `main.tf` and the required Azure resources
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot1.png)
 
 ---
 
 #### Screenshot 2 — `main.tf` showing the public IP output and VM authentication configuration, with the password hidden or redacted
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot2.png)
 
 ---
 
@@ -40,7 +40,7 @@ Run `terraform init` and confirm the working directory initializes successfully.
 
 #### Screenshot 3 — Terminal showing successful `terraform init` output
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot3.png)
 
 ---
 
@@ -54,19 +54,19 @@ Review `terraform plan`, run `terraform apply`, and record the VM's public IP fr
 
 #### Screenshot 4 — Terraform plan summary showing the proposed resources
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot4.png)
 
 ---
 
 #### Screenshot 5 — Terraform apply output showing successful completion
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot5.png)
 
 ---
 
 #### Screenshot 6 — Terraform output showing the public IP of the VM
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot6.png)
 
 ---
 
@@ -80,7 +80,7 @@ Use Azure CLI to confirm the VM was created and is running.
 
 #### Screenshot 7 — Azure CLI output showing the VM name and running status
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot7.png)
 
 ---
 
@@ -94,7 +94,7 @@ Run `terraform destroy` to clean up the Azure resources after testing.
 
 #### Screenshot 8 — Terminal showing successful `terraform destroy` completion
 
-Add your screenshot here.
+✅
 
 ---
 
@@ -116,13 +116,13 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Task 1: `terraform-azure-vm` project created with all required resources defined (Screenshots 1–2)
-- [ ] Task 2: `terraform init` completed successfully (Screenshot 3)
-- [ ] Task 3: Plan reviewed and `terraform apply` completed, public IP recorded (Screenshots 4–6)
-- [ ] Task 4: VM verified as running via Azure CLI (Screenshot 7)
-- [ ] Task 5: `terraform destroy` completed successfully (Screenshot 8)
-- [ ] Learning/issues paragraph written (Notes)
-- [ ] No sensitive information exposed
+- [✅] Task 1: `terraform-azure-vm` project created with all required resources defined (Screenshots 1–2)
+- [✅] Task 2: `terraform init` completed successfully (Screenshot 3)
+- [✅] Task 3: Plan reviewed and `terraform apply` completed, public IP recorded (Screenshots 4–6)
+- [✅] Task 4: VM verified as running via Azure CLI (Screenshot 7)
+- [✅] Task 5: `terraform destroy` completed successfully (Screenshot 8)
+- [✅] Learning/issues paragraph written (Notes)
+- [✅] No sensitive information exposed
 
 ---
 

@@ -20,7 +20,7 @@ Create a `terraform-aws-vm` project directory for the AWS Terraform configuratio
 
 #### Screenshot 1 — File Explorer, VS Code, or terminal showing the `terraform-aws-vm` project directory
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot1.png)
 
 ---
 
@@ -34,7 +34,7 @@ Define the AWS provider, a VPC (10.0.0.0/16) with a public subnet (10.0.1.0/24) 
 
 #### Screenshot 2 (optional) — `main.tf` showing the VPC and EC2 resource blocks
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot2.png)
 
 ---
 
@@ -48,8 +48,7 @@ Run `terraform init` and confirm the working directory initializes successfully.
 
 #### Screenshot 3 — Terminal showing successful `terraform init` output
 
-Add your screenshot here.
-
+![output ](screenshots/A2Screenshot3.png)
 ---
 
 # Task 4 — Plan and Apply the Configuration
@@ -62,13 +61,13 @@ Review `terraform plan`, run `terraform apply`, and record the EC2 instance's pu
 
 #### Screenshot 4 — Terraform apply output showing successful completion
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot4.png)
 
 ---
 
 #### Screenshot 5 — Terraform output showing the EC2 public IP
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot5.png)
 
 ---
 
@@ -82,13 +81,13 @@ Confirm the EC2 instance is running in the public subnet with a public IP, insta
 
 #### Screenshot 6 — EC2 instance running in the AWS Console, with the subnet and public IP visible
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot6.png)
 
 ---
 
 #### Screenshot 7 — Browser showing the Nginx page through the EC2 public IP, or terminal showing a successful SSH connection
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot7.png).
 
 ---
 
@@ -102,7 +101,7 @@ Run `terraform destroy` to remove the Terraform-managed AWS resources after test
 
 #### Screenshot 8 — Terminal showing successful `terraform destroy` completion
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot8.png)
 
 ---
 
@@ -124,14 +123,14 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Task 1: `terraform-aws-vm` project created (Screenshot 1)
-- [ ] Task 2: `main.tf` defines VPC, subnets, IGW, Security Group, and EC2 (Screenshot 2, optional)
-- [ ] Task 3: `terraform init` completed successfully (Screenshot 3)
-- [ ] Task 4: Plan reviewed and `terraform apply` completed, public IP recorded (Screenshots 4–5)
-- [ ] Task 5: EC2 instance verified running and accessible (Screenshots 6–7)
-- [ ] Task 6: `terraform destroy` completed successfully (Screenshot 8)
-- [ ] Challenges/solutions paragraph written (Notes)
-- [ ] No sensitive information exposed
+- [✅] Task 1: `terraform-aws-vm` project created (Screenshot 1)
+- [✅] Task 2: `main.tf` defines VPC, subnets, IGW, Security Group, and EC2 (Screenshot 2, optional)
+- [✅] Task 3: `terraform init` completed successfully (Screenshot 3)
+- [✅] Task 4: Plan reviewed and `terraform apply` completed, public IP recorded (Screenshots 4–5)
+- [✅] Task 5: EC2 instance verified running and accessible (Screenshots 6–7)
+- [✅] Task 6: `terraform destroy` completed successfully (Screenshot 8)
+- [✅] Challenges/solutions paragraph written (Notes)
+- [✅] No sensitive information exposed
 
 ---
 
