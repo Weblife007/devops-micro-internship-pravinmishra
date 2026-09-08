@@ -20,7 +20,7 @@ Confirm your AWS CLI is authenticated and can see the S3 bucket, EC2 instance(s)
 
 #### Screenshot 1 — Terminal showing your AWS identity and your S3, EC2, and RDS resources listed
 
-Add your screenshot here.
+![output ](screenshots/A7Screenshot1.png)
 
 ---
 
@@ -34,7 +34,7 @@ Create a `CLAUDE.md` in your workspace that tells Claude the audit script is rea
 
 #### Screenshot 2 — `CLAUDE.md` open showing the project overview and safety rules
 
-Add your screenshot here.
+![output ](screenshots/A7Screenshot2.png)
 
 ---
 
@@ -48,7 +48,7 @@ Ask Claude Code to propose a read-only audit plan covering five checks — S3 pu
 
 #### Screenshot 3 — Claude's proposed five-check audit plan
 
-Add your screenshot here.
+![output ](screenshots/A7Screenshot3.png)
 
 ---
 
@@ -62,7 +62,7 @@ Write a Bash script that runs the five checks from Task 3 using only read-only A
 
 #### Screenshot 4 — The script open in your editor, showing the checks and the report logic
 
-Add your screenshot here.
+![output ](screenshots/A7Screenshot4.png)
 
 ---
 
@@ -76,7 +76,7 @@ Run the script against your live AWS account and review the report honestly, not
 
 #### Screenshot 5 — Script output showing your Full Name and all five check results
 
-Add your screenshot here.
+![output ](screenshots/A7Screenshot5.png)
 
 ---
 
@@ -90,13 +90,13 @@ Turn the script into a Claude Code skill named `/aws-audit` that runs the script
 
 #### Screenshot 6 — Skill file showing the restricted tool access
 
-Add your screenshot here.
+![output ](screenshots/A7Screenshot6.png)
 
 ---
 
 #### Screenshot 7 — `/aws-audit` output showing the findings and Claude's recommendation
 
-Add your screenshot here.
+![output ](screenshots/A7Screenshot7.png)
 
 ---
 
@@ -110,13 +110,13 @@ Pick one real finding from your baseline report (or deliberately open a security
 
 #### Screenshot 8 — Terminal output of the remediation command you ran yourself
 
-Add your screenshot here.
+![output ](screenshots/A7Screenshot8.png)
 
 ---
 
 #### Screenshot 9 — Second script run showing the finding now passing
 
-Add your screenshot here.
+![output ](screenshots/A7Screenshot9.png)
 
 ---
 
