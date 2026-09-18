@@ -137,7 +137,11 @@ Confirm EpicBook is accessible through the EC2 public IP and that navigation, ca
 
 Write a short note describing any issue you faced, how you fixed it, and what you learned.
 
-Write your answer here.
+One issue I faced was configuring the AWS infrastructure correctly with Terraform, especially the networking and EC2 setup. I also had to make sure the EC2 instance used the correct SSH key pair and that the security group allowed SSH and HTTP traffic. I fixed these issues by checking the AWS resources, updating the Terraform configuration, and running terraform plan and terraform apply again to verify the changes.
+
+Another challenge was connecting the EC2 instance to the private RDS database. I learned that the RDS instance should not be publicly accessible and that database access should be allowed only from the EC2 security group on port 3306.
+
+This assignment helped me understand how Terraform can automate AWS infrastructure, how public and private subnets work together, and how EC2, security groups, and RDS can be connected securely.
 
 ---
 

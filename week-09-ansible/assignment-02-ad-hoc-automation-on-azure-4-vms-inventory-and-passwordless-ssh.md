@@ -20,19 +20,19 @@ Provision four Ubuntu 22.04 VMs (`web1`, `web2`, `app1`, `db1`, Standard_B1s) wi
 
 #### Screenshot 1 — Terminal showing successful `terraform apply` output and `terraform output public_ips`
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot1.png)
 
 ---
 
 #### Screenshot 2 — Azure Portal showing all four running Ubuntu VMs
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot2.png)
 
 ---
 
 #### Screenshot 3 — Network Security Group inbound rules showing SSH 22 and HTTP 80
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot3.png)
 
 ---
 
@@ -46,7 +46,7 @@ Connect to each of the four VMs as `azureuser` and run `hostname` remotely witho
 
 #### Screenshot 4 — Terminal showing successful `hostname` output from all four passwordless SSH tests
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot4.png)
 
 ---
 
@@ -60,7 +60,7 @@ Create `inventory.ini` mapping VM indices 0–1 to `[web]`, index 2 to `[app]`, 
 
 #### Screenshot 5 — Editor or terminal showing `inventory.ini` with the web, app, db, and all:vars sections
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot5.png)
 
 ---
 
@@ -74,25 +74,25 @@ Run `ping`, `whoami`, and `uptime` against all hosts; install and start Nginx on
 
 #### Screenshot 6 — Terminal showing `ansible ping` SUCCESS for all four hosts
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot6.png)
 
 ---
 
 #### Screenshot 7 — Terminal showing `uptime` output for all four hosts
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot7.png)
 
 ---
 
 #### Screenshot 8 — Terminal showing Nginx installation and service start on the web group
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot8.png)
 
 ---
 
 #### Screenshot 9 — Terminal showing `htop` installation on all hosts and group-targeted command output
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot9.png)
 
 ---
 
@@ -100,7 +100,15 @@ Add your screenshot here.
 
 Describe an issue you faced and how you fixed it, what you learned, when you'd use an ad-hoc command instead of a playbook, and one challenge you faced during SSH or inventory setup.
 
-Write your answer here.
+
+One issue I faced was SSH authentication failing because the EC2 instances were using a different key pair from the private key I initially tried. I fixed this by creating a new AWS key pair, updating the Terraform configuration, and recreating the EC2 instances with the new key. I then updated the Ansible inventory with the new IP addresses and key path.
+
+I learned how Terraform outputs can be used to identify EC2 instance IP addresses and how Ansible uses an inventory file to manage multiple servers. I also learned how ProxyJump can be used to connect to private instances through a publicly accessible web server.
+
+I would use an Ansible ad-hoc command for quick, one-time tasks such as testing connectivity with `ansible all -m ping`, checking disk space, or restarting a service. I would use a playbook when I need repeatable, organized, and more complex configuration across multiple servers.
+
+One challenge during SSH and inventory setup was connecting to the private app server because it did not have a public IP address. I solved this by configuring Ansible to use the web server as a ProxyJump. After testing the SSH connection manually, Ansible was able to reach the private server.
+
 
 ---
 

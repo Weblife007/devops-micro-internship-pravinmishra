@@ -20,7 +20,7 @@ Create the `static-web` project directory with `inventory.ini`, `site.yml`, a `f
 
 #### Screenshot 1 — Terminal or editor showing the complete `static-web` folder layout
 
-Add your screenshot here.
+![output ](screenshots/A3Screenshot1.png)
 
 ---
 
@@ -34,7 +34,7 @@ Stage `index.html` from `https://github.com/pravinmishraaws/Azure-Static-Website
 
 #### Screenshot 2 — Editor or terminal showing `files/index.html` staged inside the `static-web` project
 
-Add your screenshot here.
+![output ](screenshots/A3Screenshot2.png)
 
 ---
 
@@ -48,13 +48,13 @@ Write `site.yml` with three plays: Play 1 (install/start Nginx on `web`), Play 2
 
 #### Screenshot 3 — Editor showing the three plays in `site.yml`
 
-Add your screenshot here.
+![output ](screenshots/A3Screenshot3.png)
 
 ---
 
 #### Screenshot 4 — Editor showing the copy task, file ownership/mode, handler, uri task, and HTTP 200 assertion
 
-Add your screenshot here.
+![output ](screenshots/A3Screenshot4.png)
 
 ---
 
@@ -68,13 +68,13 @@ Run `ansible-playbook -i inventory.ini site.yml` and confirm all plays complete 
 
 #### Screenshot 5 — Terminal showing the `ansible-playbook` run and final recap with OK/changed results and no failures
 
-Add your screenshot here.
+![output ](screenshots/A3Screenshot5.png)
 
 ---
 
 #### Screenshot 6 — Terminal showing the successful localhost URI verification results
 
-Add your screenshot here.
+![output ](screenshots/A3Screenshot6.png)
 
 ---
 
@@ -88,7 +88,7 @@ Confirm the deployed static website is reachable directly from a web-server publ
 
 #### Screenshot 7 — Browser showing the static website loaded from a web-server public IP
 
-Add your screenshot here.
+![output ](screenshots/A3Screenshot7.png)
 
 ---
 
@@ -96,7 +96,9 @@ Add your screenshot here.
 
 Describe an issue you faced and how you fixed it, what you learned, why installation and deployment were split into separate plays, and one benefit of using `copy` instead of cloning from Git directly.
 
-Write your answer here.
+Issue: Ansible successfully copied index.html, but the browser still displayed the old Terraform page.
+Cause: Nginx was configured with /var/www/react-app as its document root, while Ansible was copying the file to /var/www/html.
+Fix: Changed the Ansible destination to /var/www/react-app/index.html so it matched Nginx's configured root.
 
 ---
 

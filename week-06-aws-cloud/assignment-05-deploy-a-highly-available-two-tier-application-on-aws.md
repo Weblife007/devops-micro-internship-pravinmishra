@@ -224,7 +224,6 @@ Summarize the VPC/subnet layout, the ALB and Auto Scaling Group setup, the priva
 
 Write a short summary covering the network, ALB/ASG setup, RDS setup, and the results of Test A and Test B.
 
-Write your answer here.
 
 The environment was deployed inside a custom VPC containing public and private subnets across two Availability Zones. An Application Load Balancer distributed traffic across EC2 instances managed by an Auto Scaling Group. The database layer used Amazon RDS MySQL configured for Multi-AZ deployment in private subnets.
 

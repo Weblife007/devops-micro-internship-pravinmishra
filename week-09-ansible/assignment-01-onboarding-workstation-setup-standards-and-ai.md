@@ -20,13 +20,13 @@ Create and activate an isolated `.venv` inside `ansible-onboarding/`, install `a
 
 #### Screenshot 1 — Terminal showing the activated `.venv` and successful `ansible --version` output
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot1.png)
 
 ---
 
 #### Screenshot 2 — Terminal showing successful `ansible-lint --version` output and `requirements.txt`
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot2.png)
 
 ---
 
@@ -40,13 +40,13 @@ Install the Ansible, YAML, and Python VS Code extensions, and create `.vscode/se
 
 #### Screenshot 3 — VS Code Extensions panel showing Ansible, YAML, and Python installed
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot3.png)
 
 ---
 
 #### Screenshot 4 — VS Code showing `.vscode/settings.json` and `.editorconfig`
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot4.png)
 
 ---
 
@@ -60,7 +60,7 @@ Create `ansible.cfg` in the project root with the team-friendly defaults and SSH
 
 #### Screenshot 5 — VS Code or terminal showing `ansible.cfg` in the project root with the supplied settings
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot5.png)
 
 ---
 
@@ -74,7 +74,7 @@ Generate or use an Ed25519 SSH key, load it into `ssh-agent`, and configure `~/.
 
 #### Screenshot 6 — Terminal showing `ssh-add -l` with the key loaded (do not expose private-key contents)
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot6.png)
 
 ---
 
@@ -88,13 +88,13 @@ Configure Git identity and the `main` default branch, install `pre-commit`, add 
 
 #### Screenshot 7 — Terminal showing `pre-commit install` output
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot7.png)
 
 ---
 
 #### Screenshot 8 — Terminal showing `pre-commit run --all-files` passing
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot8.png)
 
 ---
 
@@ -108,13 +108,13 @@ Document the workstation setup in `README.md`, including a "New Machine? Do This
 
 #### Screenshot 9 — Repository tree showing the required files
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot9.png)
 
 ---
 
 #### Screenshot 10 — `README.md` showing machine details and the "New Machine? Do This" checklist
 
-Add your screenshot here.
+![output ](screenshots/A1Screenshot10.png)
 
 ---
 
@@ -122,7 +122,12 @@ Add your screenshot here.
 
 State one thing that makes this setup team-friendly, and one pitfall you avoided (e.g. global pip, missing SSH agent). Note any corporate proxy or CA certificate steps, if applicable.
 
-Write your answer here.
+One thing that makes this setup team-friendly is that the development environment is reproducible. Using a project-specific `.venv`, `requirements.txt`, `ansible.cfg`, `.editorconfig`, and pre-commit configuration means another team member can set up the same tooling and standards on a new machine.
+
+One pitfall I avoided was relying on globally installed Python packages. I used an isolated `.venv` for Ansible and its supporting tools, which helps prevent dependency conflicts with other projects. I also configured SSH agent support so the SSH key can be loaded and used without exposing the private-key contents.
+
+No corporate proxy or custom CA certificate was required for this setup.
+
 
 ---
 
