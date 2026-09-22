@@ -20,7 +20,7 @@ Create the `mini-finance` project with separate `terraform/` and `ansible/` subd
 
 #### Screenshot 1 — Terminal or editor showing the complete `mini-finance` project tree
 
-Add your screenshot here.
+![output ](screenshots/A4Screenshot1.png)
 
 ---
 
@@ -34,19 +34,19 @@ Provision an Ubuntu 22.04 Standard_B1s VM with a public IP, SSH key authenticati
 
 #### Screenshot 2 — Terminal showing the end of a successful `terraform apply`
 
-Add your screenshot here.
+![output ](screenshots/A4Screenshot2.png)
 
 ---
 
 #### Screenshot 3 — Terminal showing `terraform output public_ip`
 
-Add your screenshot here.
+![output ](screenshots/A4Screenshot3.png)
 
 ---
 
 #### Screenshot 4 — Terraform code or Azure Portal showing NSG inbound rules for ports 22 and 80
 
-Add your screenshot here.
+![output ](screenshots/A4Screenshot4.png)
 
 ---
 
@@ -60,7 +60,7 @@ Connect to the VM with SSH using the injected key and run `hostname` remotely wi
 
 #### Screenshot 5 — Terminal showing the successful passwordless SSH hostname check
 
-Add your screenshot here.
+![output ](screenshots/A4Screenshot5.png)
 
 ---
 
@@ -74,13 +74,13 @@ Create `ansible/inventory.ini` and a three-play `site.yml` that installs Nginx a
 
 #### Screenshot 6 — Editor showing `inventory.ini` and the three plays in `site.yml`
 
-Add your screenshot here.
+![output ](screenshots/A4Screenshot6.png)
 
 ---
 
 #### Screenshot 7 — Terminal showing `ansible-playbook -i inventory.ini site.yml` with HTTP 200, assertion OK, and no failures
 
-Add your screenshot here.
+![output ](screenshots/A4Screenshot7.png)
 
 ---
 
@@ -94,7 +94,7 @@ Confirm the Mini Finance site is publicly accessible and correctly served by Ngi
 
 #### Screenshot 8 — Browser showing the Mini Finance site loaded from `http://<public_ip>` with the URL visible
 
-Add your screenshot here.
+![output ](screenshots/A4Screenshot8.png)
 
 ---
 
@@ -102,7 +102,9 @@ Add your screenshot here.
 
 Describe an issue you faced and how you fixed it, and what you learned.
 
-Write your answer here.
+One issue I faced was an SSH authentication problem because the EC2 instances were using a different key pair from the private key I initially tried. I fixed this by creating a new AWS key pair, updating the Terraform configuration with the correct key name, recreating the EC2 instance, and using the matching private key for SSH and Ansible.
+
+I also learned how Terraform can provision the infrastructure and networking while Ansible can be used to configure the server after it is created. I learned how Security Groups control EC2 traffic, how passwordless SSH works with key-based authentication, and how Ansible can automate Nginx installation and configuration. I also learned the importance of verifying the deployment by testing both SSH connectivity and the application over HTTP.
 
 ---
 
@@ -118,13 +120,13 @@ Publish a LinkedIn post about the Terraform + Ansible deployment, mentioning the
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://lnkd.in/p/emgpK32Z`
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the text and at least one image or proof
 
-Add your screenshot here.
+![output ](screenshots/A4LinkedInPost.png)
 
 ---
 

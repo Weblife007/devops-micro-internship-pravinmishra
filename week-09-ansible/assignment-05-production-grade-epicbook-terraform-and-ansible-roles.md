@@ -20,7 +20,7 @@ Create the `epicbook-prod` project with `terraform/azure` or `terraform/aws`, `a
 
 #### Screenshot 1 — Terminal or editor showing the complete `epicbook-prod` project tree
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot1.png)
 
 ---
 
@@ -34,13 +34,13 @@ Provision one secure Ubuntu 22.04 VM with SSH key authentication, inbound SSH (2
 
 #### Screenshot 2 — Terminal showing successful `terraform apply` and `terraform output` with `public_ip` and `admin_user`
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot2.png)
 
 ---
 
 #### Screenshot 3 — Terraform code or cloud console showing inbound rules for ports 22 and 80
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot3.png)
 
 ---
 
@@ -54,13 +54,13 @@ Create the `[web]` inventory using the Terraform `public_ip` and `admin_user` ou
 
 #### Screenshot 4 — Terminal showing the successful passwordless SSH hostname check
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot4.png)
 
 ---
 
 #### Screenshot 5 — Editor or terminal showing `inventory.ini` and a successful Ansible ping
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot5.png)
 
 ---
 
@@ -74,7 +74,7 @@ Create `site.yml` invoking the `common`, `nginx`, and `epicbook` roles in that e
 
 #### Screenshot 6 — Editor showing `ansible/site.yml` with the three roles in the required order
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot6.png)
 
 ---
 
@@ -88,7 +88,7 @@ Create `roles/common/tasks/main.yml` to update apt, upgrade packages, install ba
 
 #### Screenshot 7 — Editor showing `roles/common/tasks/main.yml`
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot7.png)
 
 ---
 
@@ -102,13 +102,13 @@ Create the `nginx` role to install Nginx, deploy the `epicbook.conf.j2` template
 
 #### Screenshot 8 — Editor showing the Nginx role tasks, handler, and `epicbook.conf.j2` template
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot8.png)
 
 ---
 
 #### Screenshot 9 — Terminal showing `/etc/nginx/sites-available/epicbook` and a successful Nginx configuration test
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot9.png)
 
 ---
 
@@ -122,7 +122,7 @@ Create the `epicbook` role to clone the repository to `{{ app_dest }}`, set owne
 
 #### Screenshot 10 — Editor showing `roles/epicbook/tasks/main.yml`
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot10.png)
 
 ---
 
