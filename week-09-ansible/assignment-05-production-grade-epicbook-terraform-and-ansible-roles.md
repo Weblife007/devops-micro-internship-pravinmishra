@@ -136,7 +136,7 @@ Define `app_repo`, `app_dest`, `app_user`, and `app_group` in `ansible/group_var
 
 #### Screenshot 11 — Editor showing `ansible/group_vars/web.yml`
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot11.png)
 
 ---
 
@@ -150,7 +150,7 @@ Run `ansible-playbook -i inventory.ini site.yml` and confirm `common` → `nginx
 
 #### Screenshot 12 — Terminal showing the role-based Ansible run and final recap with `failed=0`
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot12.png)
 
 ---
 
@@ -164,19 +164,19 @@ Confirm the EpicBook site loads with HTTP 200, inspect the Nginx configuration, 
 
 #### Screenshot 13 — Browser showing the EpicBook site with the public IP visible
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot13.png)
 
 ---
 
 #### Screenshot 14 — Terminal showing HTTP 200 and the Nginx site-file snippet
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot14.png)
 
 ---
 
 #### Screenshot 15 — Terminal showing the idempotent second Ansible run with mostly OK/UNCHANGED and `failed=0`
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot15.png)
 
 ---
 
@@ -184,7 +184,16 @@ Add your screenshot here.
 
 Describe an issue you faced and how you fixed it, what you learned, any security issues you identified, and your production remediation plan.
 
-Write your answer here.
+During the EpicBook deployment, I faced an issue where Nginx was displaying the default welcome page instead of the application. I traced the problem by checking the Nginx configuration and the application port. The EpicBook Node.js application was running on port 8080, but Nginx had not reloaded the updated reverse-proxy configuration. After validating the configuration with `nginx -t` and reloading Nginx, traffic was correctly forwarded from port 80 to the EpicBook application on port 8080.
+
+I also encountered a database import issue because the SQL files contained hard-coded `bookstore` database references while my AWS RDS database was named `epicbookdb`. I fixed this by transforming those references during the Ansible import process so the SQL files could be imported into the managed RDS database.
+
+I learned how Terraform can provision the underlying AWS infrastructure while Ansible handles operating-system configuration, application deployment, Nginx configuration, database initialization, and process management with PM2. I also learned the importance of testing each layer independently before troubleshooting the complete application stack.
+
+Security issues identified included database credentials being required during deployment, SSH access to the EC2 instance, and the need to ensure that the RDS database is not publicly accessible. The RDS instance was configured as private, while SSH access should be restricted to trusted administrator IP addresses rather than being broadly exposed.
+
+For production remediation, I would store database credentials in AWS Secrets Manager or AWS Systems Manager Parameter Store instead of relying on manually managed secrets. I would also restrict security-group rules to the minimum required ports and trusted sources, use HTTPS with an SSL/TLS certificate, enable database backups and encryption, apply least-privilege IAM permissions, and add monitoring and centralized logging. I would also use a production deployment pipeline with automated security scanning and controlled infrastructure changes.
+
 
 ---
 
@@ -200,19 +209,19 @@ Publish a LinkedIn post describing the Terraform + Ansible roles deployment (clo
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://lnkd.in/p/eBarnUYG`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![output ](screenshots/A5LinkedInPost.png)
 
 ---
 
 #### Video reflection screenshot
 
-Add your screenshot here.
+![output ](screenshots/A5Screenshot12.png)
 
 ---
 

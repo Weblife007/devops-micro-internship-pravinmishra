@@ -138,7 +138,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 06 | AWS Cloud | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_dmibypravinmishra-agenticai-claudecode-activity-7499101293068767232-SmKf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE | https://medium.com/@kennethefeboyi14/deploying-a-three-tier-book-review-application-on-aws-my-capstone-journey-73838430f5bd |
 | 07 | Azure Cloud | 🔄 In Progress | ⏳ Pending | https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_devops-azure-terraform-activity-7503841770577858561-j8wW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE | https://medium.com/@kennethefeboyi14/building-and-deploying-a-three-tier-book-review-app-on-azure-31e3b79b055b |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
+| 09 | Ansible | ⬜ Not Started | ⏳ Pending | https://www.linkedin.com/posts/kenneth-boyi-6b4a353a6_devops-terraform-ansible-activity-7508737263212621824-kefT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGN28KgBcLsxZ_9wccn46X5xb7tSMc1PKWE | https://medium.com/@kennethefeboyi14/building-and-deploying-epicbook-with-terraform-and-ansible-on-aws-e4993c2beca6 |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
 | 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
