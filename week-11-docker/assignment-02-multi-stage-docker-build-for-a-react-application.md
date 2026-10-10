@@ -20,7 +20,7 @@ Clone `https://github.com/pravinmishraaws/my-react-app.git` and create a `.docke
 
 #### Screenshot 1 — Contents of the `.dockerignore` file
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot1.png)
 
 ---
 
@@ -34,13 +34,13 @@ Create `Dockerfile.single`, build `react-single`, and run it on port 3000.
 
 #### Screenshot 2 — Contents of `Dockerfile.single`
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot2.png)
 
 ---
 
 #### Screenshot 3 — Browser displaying the application running from the single-stage container
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot3.png)
 
 ---
 
@@ -54,13 +54,13 @@ Create a multi-stage Dockerfile with separate build and Nginx runtime stages, bu
 
 #### Screenshot 4 — Contents of the multi-stage Dockerfile
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot4.png)
 
 ---
 
 #### Screenshot 5 — Browser displaying the application running from the multi-stage container
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot5.png)
 
 ---
 
@@ -74,7 +74,7 @@ Compare the single-stage and multi-stage image sizes and calculate the percentag
 
 #### Screenshot 6 — Docker image list showing both image sizes
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot6.png)
 
 ---
 
@@ -88,15 +88,19 @@ Write a 5–8 line analysis covering the percentage reduction, security benefits
 
 #### Screenshot 7 — Analysis included in your submission document
 
-Add your screenshot here.
+![output ](screenshots/A2Screenshot6.png)
 
 ---
 
 ### Notes
 
-Write your analysis here.
-
-Write your answer here.
+The single-stage Docker image had a disk usage of **2.24 GB**, while the multi-stage image used only **95 MB**.
+The multi-stage build reduced disk usage by approximately **95.76%**, making the runtime image significantly smaller.
+The smaller runtime image improves security by excluding unnecessary build tools and development dependencies.
+This reduces the attack surface because fewer packages and tools are available for potential attackers to exploit.
+Smaller images require less data to download, improving image pull times and speeding up deployments.
+I used Docker build caching, which reused unchanged layers, such as dependency installation, when the inputs had not changed.
+Overall, multi-stage builds improve image efficiency, deployment speed, and runtime security.
 
 ---
 
@@ -122,13 +126,13 @@ Create a LinkedIn post describing what you built, what a multi-stage Docker buil
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://lnkd.in/p/e4cJcwVb`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![output ](screenshots/A2LinkedPost.png)
 
 ---
 
